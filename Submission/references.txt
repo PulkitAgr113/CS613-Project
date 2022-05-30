@@ -1,0 +1,28 @@
+Code:
+
+1. https://drive.google.com/file/d/134icd1cjJKsxGUN7F97jGbEqO2wxLdL9/view?usp=sharing
+2. https://drive.google.com/file/d/1SzOM3FvUve4tuciVb5U6Tqek1lILRxeV/view?usp=sharing
+
+Research Papers:
+
+1. https://web.engr.oregonstate.edu/~erwig/papers/InductiveGraphs_JFP01.pdf
+2. https://www.researchgate.net/publication/221241131_Functional_Programming_with_Graphs
+3. https://web.engr.oregonstate.edu/~erwig/papers/ActivePatterns_IFL96.pdf
+4. https://theses.gla.ac.uk/1629/1/1996kingphd.pdf
+5. https://github.com/snowleopard/alga-paper/releases/download/final/algebraic-graphs.pdf
+6. https://github.com/snowleopard/alga-paper/releases/download/final/algebraic-graphs-slides.pdf
+7. https://labra.weso.es/wesin/papers/InductiveTripleGraphs.pdf
+8. https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/papers/doczkal.pdf
+
+Documentations:
+
+1. https://hackage.haskell.org/package/fgl-5.7.0.3/docs/Data-Graph-Inductive-Graph.html
+2. https://malv.in/posts/2021-01-09-depth-first-and-breadth-first-search-in-haskell.html
+3. https://web.engr.oregonstate.edu/~erwig/fgl/haskell/
+4. https://hackage.haskell.org/package/fgl
+5. https://nobrakal.github.io/alga-tutorial/
+
+Stack Overflow:
+
+1. https://stackoverflow.com/questions/6860123/how-would-you-represent-a-graph-the-kind-associated-with-the-travelling-salesma
+2. https://stackoverflow.com/questions/9732084/how-do-you-represent-a-graph-in-haskell?rq=1
